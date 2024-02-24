@@ -9,13 +9,13 @@ import Work from "./components/work/Work";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import ScrollUp from "./components/scrollup/ScrollUp";
-// import Testimonial from "./components/testimonials/Testimonials"
-// right now no testimonials i have
+import Preloader from "./components/preloader/Preloader";
 
 function App() {
 
   return (
     <>
+      <Preloader/>
       <Header />
       <main className="main">
         <Home />
