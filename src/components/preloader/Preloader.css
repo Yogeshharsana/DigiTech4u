@@ -34,4 +34,8 @@
     font-size: 18px; /* Adjust font size as needed */
     color: #ffffff; /* Set your text color */
   }
-  
+  @media screen and (max-width: 500px){
+    .logo{
+      width: 60%;
+    }
+  }

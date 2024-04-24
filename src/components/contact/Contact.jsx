@@ -62,7 +62,7 @@ const Contact = () => {
         <div className="contact_content">
           {isMessageSent ? (
             <div className="success_message">
-              Thank you for contacting me! I'll get back to you shortly.
+              Thank you for contacting Us ! We'll get back to you shortly.
             </div>
           ) : (
             <>

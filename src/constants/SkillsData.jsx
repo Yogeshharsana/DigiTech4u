@@ -18,8 +18,9 @@ export const otherSkills = [
   { name: "Canva" },
   { name: "Illustrator" },
   { name: "MailChimp" },
-  { name: "Google Analytics" },
   { name: "HootSuite" },
+  { name: "Google Analytics" },
+  
 
 ];
 
