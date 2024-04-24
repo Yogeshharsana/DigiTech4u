@@ -96,3 +96,13 @@ export const servicesData = [
   }
 
 ];
+
+export const Team = [
+  {
+    "Name": "Yogesh Harsana",
+    "Role": "Founder",
+    "Linkedin": "Craft visually stunning and highly functional websites that leave a lasting impression on your audience.",
+    "photo": "url"
+  },
+
+]

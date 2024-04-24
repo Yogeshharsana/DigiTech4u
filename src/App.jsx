@@ -11,6 +11,7 @@ import Footer from "./components/footer/Footer";
 import ScrollUp from "./components/scrollup/ScrollUp";
 import Preloader from "./components/preloader/Preloader";
 import Skills from "./components/skills/Skills"
+import Team from "./components/Team/Team"
 function App() {
 
   return (
@@ -23,6 +24,7 @@ function App() {
         
         <Services />
         <Skills/>
+        <Team/>
         <Contact />
       </main>
       <Footer />

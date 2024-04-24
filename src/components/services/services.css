@@ -38,7 +38,8 @@
   cursor: pointer;
 }
 .services_content:hover{
-  background-color: rgb(166, 170, 214);
+  background: linear-gradient(#6045ea, #8567f7);
+  
   
 }
 
