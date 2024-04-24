@@ -6,12 +6,24 @@ export const technicalSkills = [
   { name: "C++" },
   { name: "Node.Js" },
   { name: "Express" },
-];
-export const otherSkills = [
-  { name: "Git" },
-  { name: "GitHub" },
+  { name: "Swift" },
+  { name: "SwiftUi" },
+  { name: "SQL" },
+  { name: "PostGreSQL" },
 
 ];
+export const otherSkills = [
+  { name: "Xcode" },
+  { name: "Figma" },
+  { name: "Canva" },
+  { name: "Illustrator" },
+  { name: "MailChimp" },
+  { name: "Google Analytics" },
+  { name: "HootSuite" },
+
+];
+
+
 
 export const servicesData = [
   {
@@ -26,11 +38,11 @@ export const servicesData = [
     ]
   },
   {
-    "title": "Android App Development",
-    "icon": "[Icon representing Android app development]",
-    "description": "Build dynamic Android applications that cater to the diverse needs of your users and drive engagement.",
+    "title": "IOS App Development",
+    "icon": "[Icon representing IOS app development]",
+    "description": "Build dynamic  applications that cater to the diverse needs of your users and drive engagement.",
     "services": [
-      "Native Android app development.",
+      "Native IOS app development.",
       "Material design implementation for intuitive user experiences.",
       "Integration of third-party APIs and services.",
       "App testing, deployment, and ongoing support."

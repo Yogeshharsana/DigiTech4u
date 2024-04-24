@@ -55,7 +55,7 @@ const Footer = () => {
             <i className="uil uil-github-alt"></i>
           </a>
         </div>
-
+        <hr/>
         <span className="footer_copy">Designed and Developed with ❤️ by YH Digital and IT solutions pvt. ltd.</span>
       </div>
     </footer>

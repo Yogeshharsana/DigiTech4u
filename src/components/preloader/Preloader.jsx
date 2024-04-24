@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import "./Preloader.css"; // Import CSS file for styling
-import logogif from "./logo animated.gif";
+import logogif from "./preloader gif.gif";
 
 const Preloader = () => {
   const [loaded, setLoaded] = useState(false);

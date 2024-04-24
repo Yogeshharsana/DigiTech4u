@@ -10,7 +10,7 @@ import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import ScrollUp from "./components/scrollup/ScrollUp";
 import Preloader from "./components/preloader/Preloader";
-
+import Skills from "./components/skills/Skills"
 function App() {
 
   return (
@@ -22,9 +22,7 @@ function App() {
         <About />
         
         <Services />
-        {/* <Testimonial/> */}
-        <Qualification />
-        {/* <Work /> */}
+        <Skills/>
         <Contact />
       </main>
       <Footer />

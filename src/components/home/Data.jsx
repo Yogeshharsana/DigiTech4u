@@ -56,10 +56,7 @@ const Data = () => {
       </h1> */}
 
       <p className="home_description">
-        Welcome to YH Global, your go-to for advanced
-        IT solutions and Digital Marketing. Specializing in tailored services
-        including IT, Digital Marketing, SEO, and innovative Design
-        solutions.
+      Greetings from YH Global! Explore our array of advanced IT solutions and dynamic Digital Marketing services.
       </p>
       <h3 className="home_subtitle">
         Ready to elevate your digital presence? Contact us today to schedule a

@@ -1,5 +1,6 @@
 .footer {
-  background: linear-gradient(to top, black, royalblue);
+  /* background: linear-gradient(to right, black, rgb(255, 255, 255)); */
+  background: black;
   
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
@@ -19,7 +20,7 @@
 }
 
 .footer_link:hover {
-  color: var(--title-color-dark);
+  color: rgb(78, 88, 125);
 }
 
 .footer_list {
@@ -37,7 +38,7 @@
 }
 
 .footer_social_link {
-  background-color: var(--title-color);
+  /* background-color: var(--title-color); */
   color: white;
   font-size: 1.125rem;
   padding: 0.4rem;
@@ -46,7 +47,7 @@
 }
 
 .footer_social_link:hover {
-  background-color: var(--title-color-dark);
+  background-color: grey;
 }
 
 .footer_copy {
